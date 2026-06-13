@@ -1,0 +1,6 @@
+{
+  "name": "人生游戏-婴儿篇",
+  "description": "一款独特的文字与坐标探索类人生模拟游戏。从婴儿阶段开始，定制难度，通过剧情对话、坐标探索、完成任务解锁核心技能，体验独特的成长旅程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
